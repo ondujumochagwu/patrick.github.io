@@ -1,0 +1,167 @@
+.navbar{
+    background-color: white;
+    border-radius: 20px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav-link:hover{
+    color:rgb(184, 64, 20) !important;
+    
+}
+.nav-item{
+    margin: 10px;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    margin-top: 20vmin;
+} 
+.my-name{
+    font-size: 6vmin;
+    text-align: center;
+    font-weight: 700;
+    font-family: initial;
+}
+.one{
+    text-align: center;
+    margin-top: 150px;
+}
+.call-to-act{
+    text-align: left;
+    font-family: initial;
+
+}
+.two{
+    background-color: rgb(184, 64, 20);
+    text-align: center;
+    border-radius: 100%;
+    margin-top:25px ;
+}
+.about-me{
+    background-color: rgb(184, 64, 20) !important;
+    border: 0px !important;
+}
+.what-i-do{
+    font-weight: 500;
+    font-family: initial;
+}
+
+.what{
+    text-align: center;
+    margin: 50px 0 50px 0;
+    background-color: whitesmoke;
+    padding: 20px 20px 20px 20px;
+    font-family: initial;
+}
+.work{
+    text-align: center;
+}
+.inside1{
+    margin-bottom: 40px;
+}
+.inside{
+    box-shadow: 5px 1px 1px grey;
+    border-radius: 10px;
+    margin: 15px;
+}
+.letme{
+    text-align: center;
+    font-weight: 700;
+}
+.section{
+    background-color:rgb(184, 64, 20);
+    border-radius: 0px 100% 0px 0px;
+}
+.smart1{
+    text-align: left;
+    margin-top: 150px;
+    color: white;
+}
+.name2{
+    font-size: 6vmin;
+    font-weight: 700;
+    font-family: initial;
+}
+.smart2{
+    text-align: center;
+    margin-top:25px ;
+}
+.sociallinkicon{
+    color: white;
+    margin: 5px;
+}
+.view-port{
+    background-color: rgba(255, 255, 255, 0.253) !important;
+    color:white!important;
+    border: 1px solid white !important;
+    margin: 20px 20px 20px 0px;
+}
+.aboutme{
+    font-size: 6vmin;
+    font-weight: 700;
+    font-family: initial;
+    background-color: white;
+}
+.smoke{
+    background-color: whitesmoke;
+    border-radius: 60px;
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+}
+.hire{
+    font-weight: 500;
+    font-family: initial;
+}
+.offer{
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+}
+.floor{
+    background-color: rgb(184, 64, 20);
+    color: white;
+    padding: 30vmin 15vmin 15vmin 15vmin;
+}
+.content{
+    margin-bottom: 30px;
+}
+.change{
+    font-weight: 600;
+    font-family: initial;
+}
+.content2{
+    background-color: rgb(218, 183, 183);
+    color: black;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 15px;
+}
+.head{
+    color: rgb(184, 64, 20);
+    font-weight: 500;
+    font-family: initial;
+}
+.sociallink{
+    color: white;
+    text-decoration: underline;
+}
+.submit{
+    color: white !important;
+    background-color: rgb(98, 240, 98) !important;
+    border: 0px !important;
+    margin-top: 20px;
+}
+.foot{
+    background-color: rgba(59, 19, 4, 0.685);
+    color: white;
+    padding: 15vmin;
+    text-align: center;
+}
+.sociallinkicon2{
+    color: rgb(184, 64, 20);
+    margin: 5px;
+}
+.lasty{
+    margin-top: 20px;
+}
